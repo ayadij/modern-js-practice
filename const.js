@@ -1,3 +1,5 @@
+// https://rails.devcamp.com/modern-javascript/basics-modern-javascript-development/using-the-const-variable-type-in-javascript
+
 
 
 // old method
