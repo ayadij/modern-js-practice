@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?v=F9AIkWRD1EQ
 // https://rails.devcamp.com/modern-javascript/194/introduction-object-oriented-programming-javascript
 
 class Instructor {
