@@ -13,7 +13,6 @@ console.log(inv.taxRate);
 
 
 
-
 function Invoice(subTotal) {
   this.taxRate = 0.06;
   this.subTotal = subTotal;
@@ -26,7 +25,6 @@ function Invoice(subTotal) {
 
 const inv = new Invoice(200);
 inv.total();
-
 
 
 // the big reason they exist: helpful to use. access to the parent scope
