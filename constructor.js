@@ -6,7 +6,7 @@ class Instructor {
   }
 }
 
-const ayattaze = new Instructor({ name: 'Aya Dijkwe' });
+const ayattaze = new Instructor({ name: 'Aya Dijkwel' });
 console.log(jon.name);
 // prints out an OBJECT not "instructor"
 // ayattaze is an instance of the Instructor Class
