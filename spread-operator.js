@@ -36,3 +36,35 @@ const { starter, closer, ...relievers } = {
 console.log(starter);
 console.log(closer);
 console.log(relievers); // most common way to use object deconstuction
+
+// ---------------------------------------------------
+
+
+
+//For function calls:
+      //  myFunction(...iterableObj);
+
+//For array literals or strings
+      //  [...iterableObj, '4', 'five', 6];
+
+//For object literals (new in ECMAScript 2018):
+      //  let objClone = { ...obj };
+
+
+
+// ----------------------------------- Concatenate arrays
+// Append all items from arr2 onto arr1
+
+//Without spread syntax this is done as:
+
+      var arr1 = [0, 1, 2];
+      var arr2 = [3, 4, 5];
+      arr1 = arr1.concat(arr2);
+      console.log(arr1)
+
+//With spread syntax this becomes:
+
+      var arr1 = [0, 1, 2];
+      var arr2 = [3, 4, 5];
+      arr1 = [...arr1, ...arr2];
+      console.log(arr1)
