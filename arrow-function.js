@@ -28,5 +28,5 @@ fullName = (fName, lName) => {
 fullName('Atushi', 'Tanaka');
 
 
-
 // an arrow function is just another way of defining a function it's another way of setting up some process that you want to wrap up you want to encapsulate and then you want to call it later 
+
