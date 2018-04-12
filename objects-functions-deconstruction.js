@@ -1,6 +1,5 @@
 // https://rails.devcamp.com/modern-javascript/basics-modern-javascript-development/1265
 
-
 const user = {
   name: 'lucien',
   email: 'lucien@dijkwel.com'
